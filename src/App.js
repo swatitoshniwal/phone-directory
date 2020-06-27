@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-function App() {
-  return (
-    <div>
-      
-    </div>
-  );
-}
+function App(){
+    return (
+      <div>
+        Phone Directory
+      </div>
+    );
+  }
 
 export default App;
